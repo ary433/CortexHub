@@ -20,9 +20,9 @@ CortexHub is a discovery platform for Cortensor-powered applications. It helps u
 
 <table>
   <tr>
-    <td><img src="public/screenshots/homepage.png" alt="Home" width="300"/></td>
-    <td><img src="public/screenshots/detail.png" alt="Detail" width="300"/></td>
-    <td><img src="public/screenshots/submit.png" alt="Submit" width="300"/></td>
+    <td><img src="./public/screenshots/homepage.png" alt="Home" width="300"/></td>
+    <td><img src="./public/screenshots/detail.png" alt="Detail" width="300"/></td>
+    <td><img src="./public/screenshots/submit.png" alt="Submit" width="300"/></td>
   </tr>
   <tr>
     <td align="center">App Catalog</td>
