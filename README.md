@@ -1,7 +1,7 @@
 # CortexHub 🌐
 
 > **App Store & Catalog for Cortensor-powered applications**
-+
+
 ## 🎯 What is CortexHub?
 
 CortexHub is a discovery platform for Cortensor-powered applications. It helps users find, explore, and try community-built apps that leverage Cortensor's decentralized AI inference network.
@@ -67,7 +67,7 @@ CortexHub is a discovery platform for Cortensor-powered applications. It helps u
 
 ```bash
 # Clone the repo
-git clone https://github.com/himanshu-sugha/cortexhub.git
+git clone https://github.com/ary433/CortexHub
 cd cortexhub
 
 # Install dependencies
@@ -131,22 +131,14 @@ cortexhub/
 
 | Criteria | Implementation |
 |----------|---------------|
-| **Functionality (25%)** | Full working catalog with search, filters, detail pages |
-| **Cortensor Integration (25%)** | Network stats API, demo mode fallback |
-| **Originality (20%)** | First app store for Cortensor ecosystem |
-| **Usability (20%)** | Premium dark UI, responsive design |
-| **Public Good (10%)** | Free, open source, helps community |
+| **Functionality** | Full working catalog with search, filters, detail pages |
+| **Cortensor Integration** | Network stats API, demo mode fallback |
+| **Originality** | First app store for Cortensor ecosystem |
+| **Usability** | Premium dark UI, responsive design |
+| **Public Good** | Free, open source, helps community |
 
 ## 📜 License
 
 MIT License - see [LICENSE](LICENSE) file
 
-## 🔗 Links
 
-- [Cortensor Docs](https://docs.cortensor.network)
-- [Hackathon #3](https://docs.cortensor.network/community-and-ecosystem/hackathon/hackathon-3)
-- [Discord](https://discord.gg/cortensor)
-
----
-
-Built with ❤️ for Cortensor Hackathon #3
