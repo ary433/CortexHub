@@ -1,12 +1,7 @@
 # CortexHub 🌐
 
 > **App Store & Catalog for Cortensor-powered applications**
-
-[![Hackathon](https://img.shields.io/badge/Cortensor-Hackathon%20%233-purple)](https://docs.cortensor.network/community-and-ecosystem/hackathon/hackathon-3)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-![CortexHub Homepage](public/screenshots/homepage.png)
-
++
 ## 🎯 What is CortexHub?
 
 CortexHub is a discovery platform for Cortensor-powered applications. It helps users find, explore, and try community-built apps that leverage Cortensor's decentralized AI inference network.
